@@ -1,4 +1,3 @@
-# AC-FU
-**Note**: The codebase is currently incomplete in this preview. 
-
-The full, refined version is planned for release alongside the peer-reviewed publication.
+**Please note:** This repository contains a preview of the research code.
+- The current codebase is **incomplete**.
+- The **complete and refactored** code will be released upon the publication of the associated paper.
